@@ -1,0 +1,26 @@
+
+h1{
+    border-width: 1px;
+    border-color: red;
+    border-style: solid;
+    border-radius: 10px;
+    border: 1px solid red;
+
+}
+
+span{
+    border-width: 1px;
+    border-color: #ff00d9;
+    border-style: solid;
+    border-radius: 20px;
+     
+    
+
+    
+     
+    
+     padding: 20px 12px 12px 25px;
+     margin: 10px 20px;
+    
+
+}

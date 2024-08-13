@@ -1,0 +1,21 @@
+.font-class{
+    color: orange;
+}
+#font-size span{
+    font-weight: bold;
+
+}
+#font-size {
+font-size: 80px;
+
+}
+
+
+@font-face{
+    font-family: Choco;
+    src: url(Choco\ Shake.otf);
+}
+
+*{
+    font-family:Choco;
+}
